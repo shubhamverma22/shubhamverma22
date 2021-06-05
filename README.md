@@ -1,4 +1,4 @@
-### Hola, I'm Shubham Verma! 👋
+### Hola, I'm Shubham ! 👋
 
 - 🔭 I’m currently working on Fiverr
 - 🌱 I’m currently learning Redux
