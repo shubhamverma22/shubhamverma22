@@ -1,6 +1,6 @@
 ### Hola, I'm Shubham ! 👋
 
-- 🔭 I’m currently working in Edfora (FIITJEE)
+- 🔭 I’m currently working in myPat (Edfora)
 - 🌱 I’m currently learning Redux
 - 🤔 I’m looking for help with Microsoft Services
 - 💬 Ask me about ${MERN} Stack
